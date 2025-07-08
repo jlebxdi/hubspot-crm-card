@@ -1,0 +1,11 @@
+{
+  "title": "Deal Utilities",
+  "actions": [
+    {
+      "type": "ACTION_HOOK",
+      "text": "Duplicate Deal",
+      "url": "https://YOUR-BACKEND-URL.onrender.com/duplicate-deal",
+      "httpMethod": "POST"
+    }
+  ]
+}
