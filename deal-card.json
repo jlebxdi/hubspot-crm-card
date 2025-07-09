@@ -4,7 +4,7 @@
     {
       "type": "ACTION_HOOK",
       "text": "Duplicate Deal",
-      "url": "https://YOUR-BACKEND-URL.onrender.com/duplicate-deal",
+      "url": "https://hubspot-deal-backend.onrender.com/duplicate-deal",
       "httpMethod": "POST"
     }
   ]
